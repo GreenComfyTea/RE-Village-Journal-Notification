@@ -1,8 +1,5 @@
 <p align="center">
 	<h2 align="center"><b>"Journal Notification" Mod for Resident Evil Village</b></h2>
-	<p align="center">
-		<b>English</b>
-	</p>
 	<p align="center">Adds popup notification when the game updates the journal.</p>
 </p>
 
@@ -166,6 +163,7 @@ The script compiles `reframework/autorun/Journal_Notification_dev.lua` into `ref
 # Credits
 
 - **GreenComfyTea** - creator of the mod and its main contributor.
+- **Coconutat** - Simplified Chinese translator.
 
 ---
 
