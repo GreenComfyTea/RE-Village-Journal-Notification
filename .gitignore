@@ -10,6 +10,7 @@
 !reframework/autorun/Journal_Notification_dev.lua
 !reframework/data/Journal_Notification/languages/**
 !reframework/fonts/**
+!assets/**
 !CODE_OF_CONDUCT.md
 !LICENSE
 !README.md
