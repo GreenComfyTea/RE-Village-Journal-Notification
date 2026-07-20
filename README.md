@@ -116,6 +116,12 @@
 	</a>
 </p>
 
+<p align="center">
+	<a>
+		<img align="center" src="/assets/header.png" />
+	</a>
+</p>
+
 # Links
 
 - **[Nexus Mods](https://nexusmods.com/residentevilvillage/mods/787)**
